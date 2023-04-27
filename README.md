@@ -71,8 +71,8 @@ This project was run in the UFRC PyTorch-1.7.1 kernel on HiPerGator.
 2. Setup (and activate) your environment
 
 ### Running
-
-**Download the .zip file [here](https://drive.google.com/drive/folders/1pZBJvUDaAFHgfmSeHPimGXPEoxtSFL6Z?usp=sharing).**
+Due Github data limitation issue I am sharing the link for .pth and dataset file.
+**Download the FPLD-ResNet-101-CLS.pth and .zip file [here](https://drive.google.com/drive/folders/1pZBJvUDaAFHgfmSeHPimGXPEoxtSFL6Z?usp=sharing).**
 After downloading the .zip file and extract it. Then using Bitvise to transfer the data to the UFRC HiPerGator. Just run the files in the code folder in this order.
 * 1) Data Pre_Processing.ipynb
 After running this file check, ```FPLD-ResNet-101-CLS.pth``` without this file we cannnot perform Training and validation.
