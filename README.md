@@ -102,6 +102,7 @@ augment.py is already performed the file is just for the reference.
 
 Project Link: [https://github.com/manish-chowdary1/Pattern_Recognition_Final_Project](https://github.com/manish-chowdary1/Pattern_Recognition_Final_Project)
 
+Reference for Existing Model link: [here](https://github.com/splinter89/fingerprint-liveness-detection).
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -109,3 +110,5 @@ Project Link: [https://github.com/manish-chowdary1/Pattern_Recognition_Final_Pro
 * [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
 
 ## Thank you
+
+
