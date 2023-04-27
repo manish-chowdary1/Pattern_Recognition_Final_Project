@@ -93,6 +93,7 @@ augment.py is already performed the file is just for the reference.
 * ```Validation.ipynb```: This is the file to check the validation.
 * ```Validation.pdf```: A visual copy of ```Validation.ipynb``` results in pdf form.
 * ```Deep Learning for Fingerprint Liveliness Detection Report.pdf```: A pdf IEEE-format paper covering the project.
+* ```Deep Learning for Fingerprint Liveliness Detection Report.ppt```: A ppt presentation of the project.
 
 <!-- Authors -->
 ## Authors
